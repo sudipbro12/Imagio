@@ -1,0 +1,1 @@
+worker: python image_pdf_bot.py
